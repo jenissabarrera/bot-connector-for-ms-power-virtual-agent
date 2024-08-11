@@ -29,10 +29,10 @@ Genesys Bot Connector provides the API to call third-party bots in an Architect 
 The application receives the utterances from the Messenger through Genesys Bot Connector. It changes the format of the request before sending out an HTTP request to Microsoft Power VA for Natural Language Understanding (NLU). It also converts the response message received from Microsoft Power VA to match the postUtterance API that is provided by the Genesys Bot Connector.
 
 ## Contents
-* [Solution components](#solution_components "Goes to the Solutions components section")
+* [Solution components](#solution-components "Goes to the Solutions components section")
 * [Prerequisites](#prerequisites "Goes to the Prerequisites section")
-* [Implementation steps](#implementation_steps "Goes to the Implementation steps section")
-* [Additional resources](#additional_resources "Goes to the Additional resources section")
+* [Implementation steps](#implementation-steps "Goes to the Implementation steps section")
+* [Additional resources](#additional-resources "Goes to the Additional resources section")
 
 ## Solution components
 
